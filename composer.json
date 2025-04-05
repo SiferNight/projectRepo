@@ -1,0 +1,16 @@
+{
+    "name": "ann/repo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ann\\Repo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ann",
+            "email": "annapetukhova18@gmail.com"
+        }
+    ],
+    "require": {}
+}
