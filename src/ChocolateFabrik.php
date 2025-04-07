@@ -5,7 +5,7 @@ namespace Ann\Repo;
 
 class ChocolateFabrik
 {
-    public array $VidChocolate=["Шоколадка","Чокопай","Крамбл куки"];
+    public array $vidChocolate=["Шоколадка","Чокопай","Крамбл куки"];
 
     public function orderSnek(string $name): void
     {
