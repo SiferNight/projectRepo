@@ -26,7 +26,7 @@ class Snek
         echo "\n";
         echo "========================================" . "\n";
     }
-    public function cut()
+    public function cut():string
     {
         echo "Данную вкусняшку не нарезают." . PHP_EOL;
     }
